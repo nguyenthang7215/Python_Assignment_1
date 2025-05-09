@@ -1,0 +1,888 @@
+------------ Statistics for Age ------------ 
+3 highest scores :  
+          Player Nation    Squad   Pos   Age
+Łukasz Fabiański    POL West Ham    GK 40.06
+    Ashley Young    ENG  Everton DF,FW 39.83
+    James Milner    ENG Brighton    MF 39.34
+3 lowest scores : 
+             Player Nation          Squad   Pos   Age
+Chidozie Obi-Martin    DEN Manchester Utd    FW 17.44
+        Mikey Moore    ENG      Tottenham    FW 17.74
+      Ethan Nwaneri    ENG        Arsenal FW,MF 18.13
+
+------------ Statistics for MP ------------ 
+3 highest scores :  
+        Player Nation           Squad   Pos  MP
+    Alex Iwobi    NGA          Fulham FW,MF  35
+Anthony Elanga    SWE Nott'ham Forest FW,MF  35
+    Bernd Leno    GER          Fulham    GK  35
+3 lowest scores : 
+        Player Nation          Squad Pos  MP
+Altay Bayındır    TUR Manchester Utd  GK   2
+  Ayden Heaven    ENG Manchester Utd  DF   2
+ Billy Gilmour    SCO       Brighton  MF   2
+
+------------ Statistics for Starts ------------ 
+3 highest scores :  
+         Player Nation         Squad Pos  Starts
+     Bernd Leno    GER        Fulham  GK      35
+Bruno Guimarães    BRA Newcastle Utd  MF      35
+   Bryan Mbeumo    CMR     Brentford  FW      35
+3 lowest scores : 
+       Player Nation          Squad   Pos  Starts
+Ali Al Hamadi    IRQ   Ipswich Town    FW       0
+       Antony    BRA Manchester Utd DF,MF       0
+ Ben Chilwell    ENG Crystal Palace    DF       0
+
+------------ Statistics for Min ------------ 
+3 highest scores :  
+        Player Nation          Squad Pos    Min
+    Bernd Leno    GER         Fulham  GK 3150.0
+    David Raya    ESP        Arsenal  GK 3150.0
+Dean Henderson    ENG Crystal Palace  GK 3150.0
+3 lowest scores : 
+              Player Nation           Squad Pos  Min
+        Ayden Heaven    ENG  Manchester Utd  DF 95.0
+Jahmai Simpson-Pusey    ENG Manchester City  DF 96.0
+       Billy Gilmour    SCO        Brighton  MF 98.0
+
+------------ Statistics for Gls ------------ 
+3 highest scores :  
+        Player Nation           Squad Pos  Gls
+ Mohamed Salah    EGY       Liverpool  FW   28
+Alexander Isak    SWE   Newcastle Utd  FW   23
+Erling Haaland    NOR Manchester City  FW   21
+3 lowest scores : 
+            Player Nation           Squad Pos  Gls
+   Aaron Cresswell    ENG        West Ham  DF    0
+    Aaron Ramsdale    ENG     Southampton  GK    0
+Abdukodir Khusanov    UZB Manchester City  DF    0
+
+------------ Statistics for Ast ------------ 
+3 highest scores :  
+          Player Nation         Squad Pos  Ast
+   Mohamed Salah    EGY     Liverpool  FW   18
+    Jacob Murphy    ENG Newcastle Utd  FW   11
+Antonee Robinson    USA        Fulham  DF   10
+3 lowest scores : 
+            Player Nation           Squad Pos  Ast
+   Aaron Cresswell    ENG        West Ham  DF    0
+    Aaron Ramsdale    ENG     Southampton  GK    0
+Abdukodir Khusanov    UZB Manchester City  DF    0
+
+------------ Statistics for CrdY ------------ 
+3 highest scores :  
+            Player Nation           Squad Pos  CrdY
+        Saša Lukić    SRB          Fulham  MF    12
+Morgan Gibbs-White    ENG Nott'ham Forest  MF    11
+       Will Hughes    ENG  Crystal Palace  MF    11
+3 lowest scores : 
+               Player Nation          Squad   Pos  CrdY
+Abdul Fatawu Issahaku    GHA Leicester City    FW     0
+         Adam Webster    ENG       Brighton    DF     0
+      Albert Grønbaek    DEN    Southampton FW,MF     0
+
+------------ Statistics for CrdR ------------ 
+3 highest scores :  
+            Player Nation          Squad Pos  CrdR
+   Bruno Fernandes    POR Manchester Utd  MF     2
+     Jack Stephens    ENG    Southampton  DF     2
+Myles Lewis-Skelly    ENG        Arsenal  DF     2
+3 lowest scores : 
+           Player Nation       Squad Pos  CrdR
+  Aaron Cresswell    ENG    West Ham  DF     0
+   Aaron Ramsdale    ENG Southampton  GK     0
+Aaron Wan-Bissaka    ENG    West Ham  DF     0
+
+------------ Statistics for xG ------------ 
+3 highest scores :  
+        Player Nation           Squad Pos   xG
+ Mohamed Salah    EGY       Liverpool  FW 24.0
+Erling Haaland    NOR Manchester City  FW 20.8
+Alexander Isak    SWE   Newcastle Utd  FW 19.9
+3 lowest scores : 
+            Player Nation           Squad Pos  xG
+    Aaron Ramsdale    ENG     Southampton  GK 0.0
+Abdukodir Khusanov    UZB Manchester City  DF 0.0
+      Adam Webster    ENG        Brighton  DF 0.0
+
+------------ Statistics for xAG ------------ 
+3 highest scores :  
+       Player Nation     Squad Pos  xAG
+Mohamed Salah    EGY Liverpool  FW 13.2
+  Cole Palmer    ENG   Chelsea  MF 10.0
+Son Heung-min    KOR Tottenham  FW  8.2
+3 lowest scores : 
+         Player Nation       Squad   Pos  xAG
+ Aaron Ramsdale    ENG Southampton    GK  0.0
+Albert Grønbaek    DEN Southampton FW,MF  0.0
+  Alex McCarthy    ENG Southampton    GK  0.0
+
+------------ Statistics for PrgC ------------ 
+3 highest scores :  
+       Player Nation           Squad   Pos  PrgC
+  Jeremy Doku    BEL Manchester City FW,MF   189
+Mohamed Salah    EGY       Liverpool    FW   143
+ Noni Madueke    ENG         Chelsea    FW   142
+3 lowest scores : 
+        Player Nation        Squad Pos  PrgC
+Aaron Ramsdale    ENG  Southampton  GK     0
+ Alex McCarthy    ENG  Southampton  GK     0
+   Alex Palmer    ENG Ipswich Town  GK     0
+
+------------ Statistics for PrgP ------------ 
+3 highest scores :  
+         Player Nation           Squad Pos  PrgP
+Bruno Fernandes    POR  Manchester Utd  MF   281
+ Joško Gvardiol    CRO Manchester City  DF   251
+Bruno Guimarães    BRA   Newcastle Utd  MF   247
+3 lowest scores : 
+        Player Nation       Squad Pos  PrgP
+Aaron Ramsdale    ENG Southampton  GK     0
+ Alex McCarthy    ENG Southampton  GK     0
+       Alisson    BRA   Liverpool  GK     0
+
+------------ Statistics for PrgR ------------ 
+3 highest scores :  
+            Player Nation          Squad   Pos  PrgR
+     Mohamed Salah    EGY      Liverpool    FW   440
+      Bryan Mbeumo    CMR      Brentford    FW   319
+Alejandro Garnacho    ARG Manchester Utd MF,FW   281
+3 lowest scores : 
+        Player Nation        Squad Pos  PrgR
+Aaron Ramsdale    ENG  Southampton  GK     0
+ Alex McCarthy    ENG  Southampton  GK     0
+   Alex Palmer    ENG Ipswich Town  GK     0
+
+------------ Statistics for Gls.1 ------------ 
+3 highest scores :  
+       Player Nation           Squad   Pos  Gls.1
+  Jáder Durán    COL     Aston Villa    FW   0.99
+Donyell Malen    NED     Aston Villa    FW   0.92
+ James Mcatee    ENG Manchester City MF,FW   0.89
+3 lowest scores : 
+            Player Nation           Squad Pos  Gls.1
+   Aaron Cresswell    ENG        West Ham  DF    0.0
+    Aaron Ramsdale    ENG     Southampton  GK    0.0
+Abdukodir Khusanov    UZB Manchester City  DF    0.0
+
+------------ Statistics for Ast.1 ------------ 
+3 highest scores :  
+        Player Nation    Squad   Pos  Ast.1
+Tyrique George    ENG  Chelsea    FW   0.87
+    Danny Ings    ENG West Ham FW,MF   0.63
+   Bukayo Saka    ENG  Arsenal FW,MF   0.58
+3 lowest scores : 
+            Player Nation           Squad Pos  Ast.1
+   Aaron Cresswell    ENG        West Ham  DF    0.0
+    Aaron Ramsdale    ENG     Southampton  GK    0.0
+Abdukodir Khusanov    UZB Manchester City  DF    0.0
+
+------------ Statistics for xG.1 ------------ 
+3 highest scores :  
+        Player Nation           Squad   Pos  xG.1
+  James Mcatee    ENG Manchester City MF,FW  0.83
+Erling Haaland    NOR Manchester City    FW  0.76
+    Danny Ings    ENG        West Ham FW,MF  0.72
+3 lowest scores : 
+            Player Nation           Squad Pos  xG.1
+    Aaron Ramsdale    ENG     Southampton  GK   0.0
+Abdukodir Khusanov    UZB Manchester City  DF   0.0
+      Adam Webster    ENG        Brighton  DF   0.0
+
+------------ Statistics for xAG.1 ------------ 
+3 highest scores :  
+         Player Nation       Squad   Pos  xAG.1
+ Tyrique George    ENG     Chelsea    FW   0.63
+Mykhailo Mudryk    UKR     Chelsea    FW   0.58
+Luis Sinisterra    COL Bournemouth FW,MF   0.54
+3 lowest scores : 
+        Player Nation        Squad Pos  xAG.1
+Aaron Ramsdale    ENG  Southampton  GK    0.0
+ Alex McCarthy    ENG  Southampton  GK    0.0
+   Alex Palmer    ENG Ipswich Town  GK    0.0
+
+------------ Statistics for stats_keeper_GA90 ------------ 
+3 highest scores :  
+          Player Nation          Squad Pos  stats_keeper_GA90
+  Altay Bayındır    TUR Manchester Utd  GK               4.00
+      Danny Ward    WAL Leicester City  GK               4.00
+Christian Walton    ENG   Ipswich Town  GK               2.67
+3 lowest scores : 
+      Player Nation     Squad Pos  stats_keeper_GA90
+Jason Steele    ENG  Brighton  GK               0.50
+  David Raya    ESP   Arsenal  GK               0.89
+     Alisson    BRA Liverpool  GK               0.92
+
+------------ Statistics for stats_keeper_Save% ------------ 
+3 highest scores :  
+        Player Nation       Squad Pos  stats_keeper_Save%
+          Neto    BRA Bournemouth  GK                84.6
+  Mark Travers    IRL Bournemouth  GK                80.0
+Robert Sánchez    ESP     Chelsea  GK                76.3
+3 lowest scores : 
+                 Player Nation          Squad Pos  stats_keeper_Save%
+         Altay Bayındır    TUR Manchester Utd  GK                33.3
+             Danny Ward    WAL Leicester City  GK                40.0
+Hákon Rafn Valdimarsson    ISL      Brentford  GK                50.0
+
+------------ Statistics for stats_keeper_CS% ------------ 
+3 highest scores :  
+                 Player Nation       Squad Pos  stats_keeper_CS%
+Hákon Rafn Valdimarsson    ISL   Brentford  GK             100.0
+            Robin Olsen    SWE Aston Villa  GK             100.0
+           Jason Steele    ENG    Brighton  GK              50.0
+3 lowest scores : 
+        Player Nation          Squad Pos  stats_keeper_CS%
+ Alex McCarthy    ENG    Southampton  GK               0.0
+   Alex Palmer    ENG   Ipswich Town  GK               0.0
+Altay Bayındır    TUR Manchester Utd  GK               0.0
+
+------------ Statistics for stats_keeper_Save%.1 ------------ 
+3 highest scores :  
+           Player Nation          Squad Pos  stats_keeper_Save%.1
+Caoimhín Kelleher    IRL      Liverpool  GK                 100.0
+  Jordan Pickford    ENG        Everton  GK                 100.0
+   Dean Henderson    ENG Crystal Palace  GK                  50.0
+3 lowest scores : 
+       Player Nation        Squad Pos  stats_keeper_Save%.1
+Alex McCarthy    ENG  Southampton  GK                   0.0
+  Alex Palmer    ENG Ipswich Town  GK                   0.0
+      Alisson    BRA    Liverpool  GK                   0.0
+
+------------ Statistics for stats_shooting_SoT% ------------ 
+3 highest scores :  
+      Player Nation          Squad   Pos  stats_shooting_SoT%
+Adam Webster    ENG       Brighton    DF                100.0
+ Archie Gray    ENG      Tottenham DF,MF                100.0
+ Conor Coady    ENG Leicester City    DF                100.0
+3 lowest scores : 
+            Player Nation           Squad Pos  stats_shooting_SoT%
+   Aaron Cresswell    ENG        West Ham  DF                  0.0
+Abdukodir Khusanov    UZB Manchester City  DF                  0.0
+      Adam Lallana    ENG     Southampton  MF                  0.0
+
+------------ Statistics for stats_shooting_SoT/90 ------------ 
+3 highest scores :  
+         Player Nation       Squad   Pos  stats_shooting_SoT/90
+   Julio Enciso    PAR    Brighton MF,FW                   3.37
+  Donyell Malen    NED Aston Villa    FW                   2.76
+Luis Sinisterra    COL Bournemouth FW,MF                   2.29
+3 lowest scores : 
+            Player Nation           Squad Pos  stats_shooting_SoT/90
+   Aaron Cresswell    ENG        West Ham  DF                    0.0
+    Aaron Ramsdale    ENG     Southampton  GK                    0.0
+Abdukodir Khusanov    UZB Manchester City  DF                    0.0
+
+------------ Statistics for stats_shooting_G/Sh ------------ 
+3 highest scores :  
+            Player Nation           Squad   Pos  stats_shooting_G/Sh
+       John Stones    ENG Manchester City DF,MF                  1.0
+       Axel Disasi    FRA         Chelsea    DF                  0.5
+Myles Lewis-Skelly    ENG         Arsenal    DF                  0.5
+3 lowest scores : 
+               Player Nation           Squad Pos  stats_shooting_G/Sh
+      Aaron Cresswell    ENG        West Ham  DF                  0.0
+   Abdukodir Khusanov    UZB Manchester City  DF                  0.0
+Abdul Fatawu Issahaku    GHA  Leicester City  FW                  0.0
+
+------------ Statistics for stats_shooting_Dist ------------ 
+3 highest scores :  
+          Player Nation           Squad   Pos  stats_shooting_Dist
+ Ibrahim Sangaré    CIV Nott'ham Forest    MF                 32.0
+Emmanuel Agbadou    CIV          Wolves    DF                 31.8
+     Ryan Fraser    SCO     Southampton FW,DF                 31.6
+3 lowest scores : 
+        Player Nation           Squad   Pos  stats_shooting_Dist
+Kieran Tierney    SCO         Arsenal DF,FW                  2.6
+  Harry Clarke    ENG    Ipswich Town    DF                  4.5
+   John Stones    ENG Manchester City DF,MF                  5.1
+
+------------ Statistics for stats_passing_Cmp ------------ 
+3 highest scores :  
+         Player Nation           Squad Pos  stats_passing_Cmp
+Virgil van Dijk    NED       Liverpool  DF               2543
+ Joško Gvardiol    CRO Manchester City  DF               2321
+ William Saliba    FRA         Arsenal  DF               2320
+3 lowest scores : 
+         Player Nation          Squad   Pos  stats_passing_Cmp
+  William Osula    DEN  Newcastle Utd    FW                 11
+Albert Grønbaek    DEN    Southampton FW,MF                 13
+Odsonne Édouard    FRA Crystal Palace MF,FW                 17
+
+------------ Statistics for stats_passing_Cmp% ------------ 
+3 highest scores :  
+        Player Nation           Squad Pos  stats_passing_Cmp%
+William Saliba    FRA         Arsenal  DF                94.2
+ Manuel Akanji    SUI Manchester City  DF                93.9
+    Nathan Aké    NED Manchester City  DF                93.9
+3 lowest scores : 
+        Player Nation           Squad Pos  stats_passing_Cmp%
+     Matz Sels    BEL Nott'ham Forest  GK                51.1
+Altay Bayındır    TUR  Manchester Utd  GK                55.5
+  George Hirst    SCO    Ipswich Town  FW                55.8
+
+------------ Statistics for stats_passing_TotDist ------------ 
+3 highest scores :  
+         Player Nation     Squad Pos  stats_passing_TotDist
+Virgil van Dijk    NED Liverpool  DF                  46352
+   Levi Colwill    ENG   Chelsea  DF                  40277
+ William Saliba    FRA   Arsenal  DF                  39927
+3 lowest scores : 
+         Player Nation          Squad   Pos  stats_passing_TotDist
+  William Osula    DEN  Newcastle Utd    FW                    126
+Albert Grønbaek    DEN    Southampton FW,MF                    135
+Odsonne Édouard    FRA Crystal Palace MF,FW                    230
+
+------------ Statistics for stats_passing_Cmp%.1 ------------ 
+3 highest scores :  
+        Player Nation          Squad Pos  stats_passing_Cmp%.1
+Altay Bayındır    TUR Manchester Utd  GK                 100.0
+Antonín Kinský    CZE      Tottenham  GK                 100.0
+Arijanet Muric    KVX   Ipswich Town  GK                 100.0
+3 lowest scores : 
+       Player Nation         Squad Pos  stats_passing_Cmp%.1
+William Osula    DEN Newcastle Utd  FW                  61.5
+ Paul Onuachu    NGA   Southampton  FW                  62.9
+ George Hirst    SCO  Ipswich Town  FW                  66.7
+
+------------ Statistics for stats_passing_Cmp%.2 ------------ 
+3 highest scores :  
+           Player Nation          Squad Pos  stats_passing_Cmp%.2
+      Alex Palmer    ENG   Ipswich Town  GK                 100.0
+Caoimhín Kelleher    IRL      Liverpool  GK                 100.0
+       Danny Ward    WAL Leicester City  GK                 100.0
+3 lowest scores : 
+         Player Nation        Squad   Pos  stats_passing_Cmp%.2
+Albert Grønbaek    DEN  Southampton FW,MF                  50.0
+           Beto    GNB      Everton    FW                  50.0
+   George Hirst    SCO Ipswich Town    FW                  50.0
+
+------------ Statistics for stats_passing_Cmp%.3 ------------ 
+3 highest scores :  
+          Player Nation          Squad   Pos  stats_passing_Cmp%.3
+     Andy Irving    SCO       West Ham    MF                 100.0
+          Antony    BRA Manchester Utd DF,MF                 100.0
+Chiedozie Ogbene    IRL   Ipswich Town    FW                 100.0
+3 lowest scores : 
+        Player Nation       Squad   Pos  stats_passing_Cmp%.3
+     Enes Ünal    TUR Bournemouth FW,MF                   0.0
+  Ross Stewart    SCO Southampton    FW                   0.0
+Tyrique George    ENG     Chelsea    FW                   0.0
+
+------------ Statistics for stats_passing_KP ------------ 
+3 highest scores :  
+         Player Nation          Squad Pos  stats_passing_KP
+Bruno Fernandes    POR Manchester Utd  MF                84
+    Cole Palmer    ENG        Chelsea  MF                82
+  Mohamed Salah    EGY      Liverpool  FW                82
+3 lowest scores : 
+         Player Nation       Squad Pos  stats_passing_KP
+ Aaron Ramsdale    ENG Southampton  GK                 0
+  Alex McCarthy    ENG Southampton  GK                 0
+Alphonse Areola    FRA    West Ham  GK                 0
+
+------------ Statistics for stats_passing_1/3 ------------ 
+3 highest scores :  
+         Player Nation           Squad Pos  stats_passing_1/3
+Virgil van Dijk    NED       Liverpool  DF                269
+ Joško Gvardiol    CRO Manchester City  DF                237
+Youri Tielemans    BEL     Aston Villa  MF                228
+3 lowest scores : 
+          Player Nation        Squad Pos  stats_passing_1/3
+   Ali Al Hamadi    IRQ Ipswich Town  FW                  0
+Chiedozie Ogbene    IRL Ipswich Town  FW                  0
+    Jason Steele    ENG     Brighton  GK                  0
+
+------------ Statistics for stats_passing_PPA ------------ 
+3 highest scores :  
+         Player Nation     Squad   Pos  stats_passing_PPA
+  Mohamed Salah    EGY Liverpool    FW                 86
+Martin Ødegaard    NOR   Arsenal    MF                 81
+     Alex Iwobi    NGA    Fulham FW,MF                 78
+3 lowest scores : 
+            Player Nation           Squad   Pos  stats_passing_PPA
+Abdukodir Khusanov    UZB Manchester City    DF                  0
+   Albert Grønbaek    DEN     Southampton FW,MF                  0
+     Alex McCarthy    ENG     Southampton    GK                  0
+
+------------ Statistics for stats_passing_CrsPA ------------ 
+3 highest scores :  
+          Player Nation       Squad Pos  stats_passing_CrsPA
+Antonee Robinson    USA      Fulham  DF                   28
+     Pedro Porro    ESP   Tottenham  DF                   26
+    Milos Kerkez    HUN Bournemouth  DF                   23
+3 lowest scores : 
+            Player Nation           Squad Pos  stats_passing_CrsPA
+    Aaron Ramsdale    ENG     Southampton  GK                    0
+Abdoulaye Doucouré    MLI         Everton  MF                    0
+Abdukodir Khusanov    UZB Manchester City  DF                    0
+
+------------ Statistics for stats_passing_PrgP ------------ 
+3 highest scores :  
+         Player Nation           Squad Pos  stats_passing_PrgP
+Bruno Fernandes    POR  Manchester Utd  MF                 281
+ Joško Gvardiol    CRO Manchester City  DF                 251
+Bruno Guimarães    BRA   Newcastle Utd  MF                 247
+3 lowest scores : 
+        Player Nation       Squad Pos  stats_passing_PrgP
+Aaron Ramsdale    ENG Southampton  GK                   0
+ Alex McCarthy    ENG Southampton  GK                   0
+       Alisson    BRA   Liverpool  GK                   0
+
+------------ Statistics for stats_gca_SCA ------------ 
+3 highest scores :  
+         Player Nation          Squad Pos  stats_gca_SCA
+    Cole Palmer    ENG        Chelsea  MF            190
+Bruno Fernandes    POR Manchester Utd  MF            169
+  Mohamed Salah    EGY      Liverpool  FW            157
+3 lowest scores : 
+        Player Nation          Squad Pos  stats_gca_SCA
+ Alex McCarthy    ENG    Southampton  GK              0
+Altay Bayındır    TUR Manchester Utd  GK              0
+       Ben Mee    ENG      Brentford  DF              0
+
+------------ Statistics for stats_gca_SCA90 ------------ 
+3 highest scores :  
+         Player Nation           Squad   Pos  stats_gca_SCA90
+ Philip Billing    DEN     Bournemouth    MF             7.83
+ Luis Guilherme    BRA        West Ham MF,FW             6.52
+Kevin De Bruyne    BEL Manchester City MF,FW             6.08
+3 lowest scores : 
+        Player Nation          Squad Pos  stats_gca_SCA90
+ Alex McCarthy    ENG    Southampton  GK              0.0
+Altay Bayındır    TUR Manchester Utd  GK              0.0
+       Ben Mee    ENG      Brentford  DF              0.0
+
+------------ Statistics for stats_gca_GCA ------------ 
+3 highest scores :  
+          Player Nation     Squad   Pos  stats_gca_GCA
+   Mohamed Salah    EGY Liverpool    FW             26
+     Bukayo Saka    ENG   Arsenal FW,MF             22
+Mikkel Damsgaard    DEN Brentford MF,FW             21
+3 lowest scores : 
+            Player Nation           Squad Pos  stats_gca_GCA
+   Aaron Cresswell    ENG        West Ham  DF              0
+    Aaron Ramsdale    ENG     Southampton  GK              0
+Abdukodir Khusanov    UZB Manchester City  DF              0
+
+------------ Statistics for stats_gca_GCA90 ------------ 
+3 highest scores :  
+     Player Nation          Squad   Pos  stats_gca_GCA90
+Bukayo Saka    ENG        Arsenal FW,MF             1.29
+Solly March    ENG       Brighton FW,MF             1.08
+Amad Diallo    CIV Manchester Utd FW,MF             0.93
+3 lowest scores : 
+            Player Nation           Squad Pos  stats_gca_GCA90
+   Aaron Cresswell    ENG        West Ham  DF              0.0
+    Aaron Ramsdale    ENG     Southampton  GK              0.0
+Abdukodir Khusanov    UZB Manchester City  DF              0.0
+
+------------ Statistics for stats_defense_Tkl ------------ 
+3 highest scores :  
+            Player Nation          Squad Pos  stats_defense_Tkl
+Idrissa Gana Gueye    SEN        Everton  MF                124
+      Daniel Muñoz    COL Crystal Palace  DF                113
+        João Gomes    BRA         Wolves  MF                105
+3 lowest scores : 
+        Player Nation        Squad Pos  stats_defense_Tkl
+Aaron Ramsdale    ENG  Southampton  GK                  0
+ Alex McCarthy    ENG  Southampton  GK                  0
+   Alex Palmer    ENG Ipswich Town  GK                  0
+
+------------ Statistics for stats_defense_TklW ------------ 
+3 highest scores :  
+            Player Nation          Squad   Pos  stats_defense_TklW
+      Daniel Muñoz    COL Crystal Palace    DF                  74
+Idrissa Gana Gueye    SEN        Everton    MF                  74
+    Moisés Caicedo    ECU        Chelsea MF,DF                  64
+3 lowest scores : 
+        Player Nation        Squad Pos  stats_defense_TklW
+Aaron Ramsdale    ENG  Southampton  GK                   0
+ Alex McCarthy    ENG  Southampton  GK                   0
+   Alex Palmer    ENG Ipswich Town  GK                   0
+
+------------ Statistics for stats_defense_Att ------------ 
+3 highest scores :  
+                Player Nation     Squad Pos  stats_defense_Att
+   Alexis Mac Allister    ARG Liverpool  MF                104
+Trent Alexander-Arnold    ENG Liverpool  DF                103
+            João Gomes    BRA    Wolves  MF                102
+3 lowest scores : 
+       Player Nation        Squad Pos  stats_defense_Att
+Alex McCarthy    ENG  Southampton  GK                  0
+  Alex Palmer    ENG Ipswich Town  GK                  0
+Armando Broja    ALB      Everton  FW                  0
+
+------------ Statistics for stats_defense_Lost ------------ 
+3 highest scores :  
+                Player Nation           Squad Pos  stats_defense_Lost
+            João Gomes    BRA          Wolves  MF                  60
+       Elliot Anderson    ENG Nott'ham Forest  MF                  57
+Trent Alexander-Arnold    ENG       Liverpool  DF                  55
+3 lowest scores : 
+        Player Nation        Squad Pos  stats_defense_Lost
+ Alex McCarthy    ENG  Southampton  GK                   0
+   Alex Palmer    ENG Ipswich Town  GK                   0
+Antonín Kinský    CZE    Tottenham  GK                   0
+
+------------ Statistics for stats_defense_Blocks ------------ 
+3 highest scores :  
+         Player Nation           Squad Pos  stats_defense_Blocks
+ Nathan Collins    IRL       Brentford  DF                    71
+        Murillo    BRA Nott'ham Forest  DF                    67
+Tyrick Mitchell    ENG  Crystal Palace  DF                    62
+3 lowest scores : 
+        Player Nation        Squad Pos  stats_defense_Blocks
+Aaron Ramsdale    ENG  Southampton  GK                     0
+ Alex McCarthy    ENG  Southampton  GK                     0
+   Alex Palmer    ENG Ipswich Town  GK                     0
+
+------------ Statistics for stats_defense_Sh ------------ 
+3 highest scores :  
+        Player Nation           Squad Pos  stats_defense_Sh
+Nathan Collins    IRL       Brentford  DF                51
+   Dara O'Shea    IRL    Ipswich Town  DF                47
+       Murillo    BRA Nott'ham Forest  DF                44
+3 lowest scores : 
+               Player Nation          Squad   Pos  stats_defense_Sh
+       Aaron Ramsdale    ENG    Southampton    GK                 0
+Abdul Fatawu Issahaku    GHA Leicester City    FW                 0
+         Adama Traoré    ESP         Fulham FW,MF                 0
+
+------------ Statistics for stats_defense_Pass ------------ 
+3 highest scores :  
+             Player Nation          Squad Pos  stats_defense_Pass
+Alexis Mac Allister    ARG      Liverpool  MF                  55
+    Antoine Semenyo    GHA    Bournemouth  FW                  51
+    Tyrick Mitchell    ENG Crystal Palace  DF                  50
+3 lowest scores : 
+         Player Nation       Squad   Pos  stats_defense_Pass
+ Aaron Ramsdale    ENG Southampton    GK                   0
+Albert Grønbaek    DEN Southampton FW,MF                   0
+  Alex McCarthy    ENG Southampton    GK                   0
+
+------------ Statistics for stats_defense_Int ------------ 
+3 highest scores :  
+           Player Nation     Squad Pos  stats_defense_Int
+Aaron Wan-Bissaka    ENG  West Ham  DF                 60
+ Antonee Robinson    USA    Fulham  DF                 57
+ Ryan Gravenberch    NED Liverpool  MF                 57
+3 lowest scores : 
+         Player Nation        Squad   Pos  stats_defense_Int
+Albert Grønbaek    DEN  Southampton FW,MF                  0
+  Alex McCarthy    ENG  Southampton    GK                  0
+    Alex Palmer    ENG Ipswich Town    GK                  0
+
+------------ Statistics for stats_possession_Touches ------------ 
+3 highest scores :  
+         Player Nation           Squad Pos  stats_possession_Touches
+Virgil van Dijk    NED       Liverpool  DF                      3125
+ Joško Gvardiol    CRO Manchester City  DF                      2903
+   Levi Colwill    ENG         Chelsea  DF                      2728
+3 lowest scores : 
+             Player Nation          Squad   Pos  stats_possession_Touches
+    Albert Grønbaek    DEN    Southampton FW,MF                        38
+      William Osula    DEN  Newcastle Utd    FW                        41
+Chidozie Obi-Martin    DEN Manchester Utd    FW                        44
+
+------------ Statistics for stats_possession_Def Pen ------------ 
+3 highest scores :  
+         Player Nation     Squad Pos  stats_possession_Def Pen
+   Mark Flekken    NED Brentford  GK                      1338
+     Bernd Leno    GER    Fulham  GK                      1097
+Bart Verbruggen    NED  Brighton  GK                      1034
+3 lowest scores : 
+       Player Nation         Squad   Pos  stats_possession_Def Pen
+  Emi Buendía    ARG   Aston Villa MF,FW                         0
+Callum Wilson    ENG Newcastle Utd    FW                         1
+Evan Ferguson    IRL      West Ham    FW                         1
+
+------------ Statistics for stats_possession_Def 3rd ------------ 
+3 highest scores :  
+         Player Nation     Squad Pos  stats_possession_Def 3rd
+   Mark Flekken    NED Brentford  GK                      1660
+Jordan Pickford    ENG   Everton  GK                      1494
+     Bernd Leno    GER    Fulham  GK                      1354
+3 lowest scores : 
+         Player Nation          Squad   Pos  stats_possession_Def 3rd
+  William Osula    DEN  Newcastle Utd    FW                         2
+Odsonne Édouard    FRA Crystal Palace MF,FW                         4
+  Callum Wilson    ENG  Newcastle Utd    FW                         5
+
+------------ Statistics for stats_possession_Mid 3rd ------------ 
+3 highest scores :  
+         Player Nation           Squad Pos  stats_possession_Mid 3rd
+Virgil van Dijk    NED       Liverpool  DF                      1719
+ William Saliba    FRA         Arsenal  DF                      1519
+ Joško Gvardiol    CRO Manchester City  DF                      1474
+3 lowest scores : 
+        Player Nation          Squad Pos  stats_possession_Mid 3rd
+ Alex McCarthy    ENG    Southampton  GK                         0
+    Danny Ward    WAL Leicester City  GK                         0
+Fraser Forster    ENG      Tottenham  GK                         0
+
+------------ Statistics for stats_possession_Att 3rd ------------ 
+3 highest scores :  
+         Player Nation          Squad Pos  stats_possession_Att 3rd
+  Mohamed Salah    EGY      Liverpool  FW                      1023
+   Bryan Mbeumo    CMR      Brentford  FW                       913
+Bruno Fernandes    POR Manchester Utd  MF                       888
+3 lowest scores : 
+        Player Nation        Squad Pos  stats_possession_Att 3rd
+Aaron Ramsdale    ENG  Southampton  GK                         0
+ Alex McCarthy    ENG  Southampton  GK                         0
+   Alex Palmer    ENG Ipswich Town  GK                         0
+
+------------ Statistics for stats_possession_Att Pen ------------ 
+3 highest scores :  
+         Player Nation         Squad Pos  stats_possession_Att Pen
+  Mohamed Salah    EGY     Liverpool  FW                       327
+ Alexander Isak    SWE Newcastle Utd  FW                       178
+Antoine Semenyo    GHA   Bournemouth  FW                       176
+3 lowest scores : 
+        Player Nation        Squad Pos  stats_possession_Att Pen
+Aaron Ramsdale    ENG  Southampton  GK                         0
+ Alex McCarthy    ENG  Southampton  GK                         0
+   Alex Palmer    ENG Ipswich Town  GK                         0
+
+------------ Statistics for stats_possession_Att ------------ 
+3 highest scores :  
+        Player Nation           Squad   Pos  stats_possession_Att
+Mohammed Kudus    GHA        West Ham FW,MF                   194
+   Jeremy Doku    BEL Manchester City FW,MF                   185
+ Morgan Rogers    ENG     Aston Villa FW,MF                   153
+3 lowest scores : 
+        Player Nation        Squad Pos  stats_possession_Att
+Aaron Ramsdale    ENG  Southampton  GK                     0
+ Alex McCarthy    ENG  Southampton  GK                     0
+   Alex Palmer    ENG Ipswich Town  GK                     0
+
+------------ Statistics for stats_possession_Succ% ------------ 
+3 highest scores :  
+     Player Nation     Squad Pos  stats_possession_Succ%
+    Alisson    BRA Liverpool  GK                   100.0
+Andy Irving    SCO  West Ham  MF                   100.0
+Axel Disasi    FRA   Chelsea  DF                   100.0
+3 lowest scores : 
+             Player Nation           Squad   Pos  stats_possession_Succ%
+ Abdukodir Khusanov    UZB Manchester City    DF                     0.0
+    Albert Grønbaek    DEN     Southampton FW,MF                     0.0
+Armel Bella Kotchap    GER     Southampton    DF                     0.0
+
+------------ Statistics for stats_possession_Tkld% ------------ 
+3 highest scores :  
+             Player Nation           Squad   Pos  stats_possession_Tkld%
+ Abdukodir Khusanov    UZB Manchester City    DF                   100.0
+    Albert Grønbaek    DEN     Southampton FW,MF                   100.0
+Armel Bella Kotchap    GER     Southampton    DF                   100.0
+3 lowest scores : 
+     Player Nation     Squad Pos  stats_possession_Tkld%
+    Alisson    BRA Liverpool  GK                     0.0
+Andy Irving    SCO  West Ham  MF                     0.0
+Axel Disasi    FRA   Chelsea  DF                     0.0
+
+------------ Statistics for stats_possession_Carries ------------ 
+3 highest scores :  
+         Player Nation           Squad Pos  stats_possession_Carries
+ Joško Gvardiol    CRO Manchester City  DF                      1886
+Virgil van Dijk    NED       Liverpool  DF                      1746
+ William Saliba    FRA         Arsenal  DF                      1675
+3 lowest scores : 
+             Player Nation           Squad   Pos  stats_possession_Carries
+      Harry Toffolo    ENG Nott'ham Forest    DF                        17
+    Albert Grønbaek    DEN     Southampton FW,MF                        18
+Chidozie Obi-Martin    DEN  Manchester Utd    FW                        22
+
+------------ Statistics for stats_possession_PrgDist ------------ 
+3 highest scores :  
+            Player Nation           Squad Pos  stats_possession_PrgDist
+Jan Paul van Hecke    NED        Brighton  DF                      6740
+    Joško Gvardiol    CRO Manchester City  DF                      5715
+        Rúben Dias    POR Manchester City  DF                      5295
+3 lowest scores : 
+         Player Nation           Squad   Pos  stats_possession_PrgDist
+Albert Grønbaek    DEN     Southampton FW,MF                        15
+  Harry Toffolo    ENG Nott'ham Forest    DF                        23
+ Massimo Luongo    AUS    Ipswich Town    MF                        25
+
+------------ Statistics for stats_possession_PrgC ------------ 
+3 highest scores :  
+       Player Nation           Squad   Pos  stats_possession_PrgC
+  Jeremy Doku    BEL Manchester City FW,MF                    189
+Mohamed Salah    EGY       Liverpool    FW                    143
+ Noni Madueke    ENG         Chelsea    FW                    142
+3 lowest scores : 
+        Player Nation        Squad Pos  stats_possession_PrgC
+Aaron Ramsdale    ENG  Southampton  GK                      0
+ Alex McCarthy    ENG  Southampton  GK                      0
+   Alex Palmer    ENG Ipswich Town  GK                      0
+
+------------ Statistics for stats_possession_1/3 ------------ 
+3 highest scores :  
+        Player Nation           Squad   Pos  stats_possession_1/3
+    Alex Iwobi    NGA          Fulham FW,MF                   102
+Joško Gvardiol    CRO Manchester City    DF                    92
+   Jeremy Doku    BEL Manchester City FW,MF                    88
+3 lowest scores : 
+         Player Nation       Squad   Pos  stats_possession_1/3
+ Aaron Ramsdale    ENG Southampton    GK                     0
+Albert Grønbaek    DEN Southampton FW,MF                     0
+  Alex McCarthy    ENG Southampton    GK                     0
+
+------------ Statistics for stats_possession_CPA ------------ 
+3 highest scores :  
+       Player Nation           Squad   Pos  stats_possession_CPA
+Mohamed Salah    EGY       Liverpool    FW                   115
+  Jeremy Doku    BEL Manchester City FW,MF                    90
+ Noni Madueke    ENG         Chelsea    FW                    87
+3 lowest scores : 
+            Player Nation           Squad Pos  stats_possession_CPA
+   Aaron Cresswell    ENG        West Ham  DF                     0
+    Aaron Ramsdale    ENG     Southampton  GK                     0
+Abdukodir Khusanov    UZB Manchester City  DF                     0
+
+------------ Statistics for stats_possession_Mis ------------ 
+3 highest scores :  
+       Player Nation       Squad   Pos  stats_possession_Mis
+Mohamed Salah    EGY   Liverpool    FW                   109
+Morgan Rogers    ENG Aston Villa FW,MF                   104
+ Bryan Mbeumo    CMR   Brentford    FW                    99
+3 lowest scores : 
+         Player Nation          Squad Pos  stats_possession_Mis
+  Alex McCarthy    ENG    Southampton  GK                     0
+Alphonse Areola    FRA       West Ham  GK                     0
+ Altay Bayındır    TUR Manchester Utd  GK                     0
+
+------------ Statistics for stats_possession_Dis ------------ 
+3 highest scores :  
+          Player Nation         Squad   Pos  stats_possession_Dis
+  Mohammed Kudus    GHA      West Ham FW,MF                    89
+ Bruno Guimarães    BRA Newcastle Utd    MF                    73
+Dejan Kulusevski    SWE     Tottenham MF,FW                    73
+3 lowest scores : 
+         Player Nation       Squad Pos  stats_possession_Dis
+Aaron Cresswell    ENG    West Ham  DF                     0
+ Aaron Ramsdale    ENG Southampton  GK                     0
+  Alex McCarthy    ENG Southampton  GK                     0
+
+------------ Statistics for stats_possession_Rec ------------ 
+3 highest scores :  
+         Player Nation           Squad Pos  stats_possession_Rec
+Virgil van Dijk    NED       Liverpool  DF                  2153
+ Joško Gvardiol    CRO Manchester City  DF                  2132
+ William Saliba    FRA         Arsenal  DF                  2056
+3 lowest scores : 
+         Player Nation          Squad   Pos  stats_possession_Rec
+Albert Grønbaek    DEN    Southampton FW,MF                    21
+Odsonne Édouard    FRA Crystal Palace MF,FW                    26
+  William Osula    DEN  Newcastle Utd    FW                    27
+
+------------ Statistics for stats_possession_PrgR ------------ 
+3 highest scores :  
+            Player Nation          Squad   Pos  stats_possession_PrgR
+     Mohamed Salah    EGY      Liverpool    FW                    440
+      Bryan Mbeumo    CMR      Brentford    FW                    319
+Alejandro Garnacho    ARG Manchester Utd MF,FW                    281
+3 lowest scores : 
+        Player Nation        Squad Pos  stats_possession_PrgR
+Aaron Ramsdale    ENG  Southampton  GK                      0
+ Alex McCarthy    ENG  Southampton  GK                      0
+   Alex Palmer    ENG Ipswich Town  GK                      0
+
+------------ Statistics for stats_misc_Fls ------------ 
+3 highest scores :  
+         Player Nation        Squad Pos  stats_misc_Fls
+     João Gomes    BRA       Wolves  MF              67
+     Liam Delap    ENG Ipswich Town  FW              67
+Antoine Semenyo    GHA  Bournemouth  FW              66
+3 lowest scores : 
+         Player Nation       Squad   Pos  stats_misc_Fls
+Albert Grønbaek    DEN Southampton FW,MF               0
+  Alex McCarthy    ENG Southampton    GK               0
+        Alisson    BRA   Liverpool    GK               0
+
+------------ Statistics for stats_misc_Fld ------------ 
+3 highest scores :  
+         Player Nation         Squad   Pos  stats_misc_Fld
+Bruno Guimarães    BRA Newcastle Utd    MF             100
+  Matheus Cunha    BRA        Wolves MF,FW              69
+    John McGinn    SCO   Aston Villa MF,FW              67
+3 lowest scores : 
+         Player Nation          Squad   Pos  stats_misc_Fld
+Alphonse Areola    FRA       West Ham    GK               0
+ Altay Bayındır    TUR Manchester Utd    GK               0
+  Andrés García    ESP    Aston Villa DF,MF               0
+
+------------ Statistics for stats_misc_Off ------------ 
+3 highest scores :  
+               Player Nation           Squad Pos  stats_misc_Off
+Dominic Calvert-Lewin    ENG         Everton  FW              27
+           Chris Wood    NZL Nott'ham Forest  FW              26
+          Jamie Vardy    ENG  Leicester City  FW              25
+3 lowest scores : 
+            Player Nation           Squad Pos  stats_misc_Off
+   Aaron Cresswell    ENG        West Ham  DF               0
+    Aaron Ramsdale    ENG     Southampton  GK               0
+Abdukodir Khusanov    UZB Manchester City  DF               0
+
+------------ Statistics for stats_misc_Crs ------------ 
+3 highest scores :  
+         Player Nation          Squad Pos  stats_misc_Crs
+    Pedro Porro    ESP      Tottenham  DF             191
+   Bryan Mbeumo    CMR      Brentford  FW             182
+Bruno Fernandes    POR Manchester Utd  MF             172
+3 lowest scores : 
+        Player Nation        Squad Pos  stats_misc_Crs
+Aaron Ramsdale    ENG  Southampton  GK               0
+ Alex McCarthy    ENG  Southampton  GK               0
+   Alex Palmer    ENG Ipswich Town  GK               0
+
+------------ Statistics for stats_misc_Recov ------------ 
+3 highest scores :  
+         Player Nation           Squad   Pos  stats_misc_Recov
+ Moisés Caicedo    ECU         Chelsea MF,DF               203
+Elliot Anderson    ENG Nott'ham Forest    MF               197
+Bruno Fernandes    POR  Manchester Utd    MF               192
+3 lowest scores : 
+        Player Nation          Squad Pos  stats_misc_Recov
+Altay Bayındır    TUR Manchester Utd  GK                 0
+    Danny Ward    WAL Leicester City  GK                 1
+Fraser Forster    ENG      Tottenham  GK                 1
+
+------------ Statistics for stats_misc_Won ------------ 
+3 highest scores :  
+         Player Nation         Squad Pos  stats_misc_Won
+       Dan Burn    ENG Newcastle Utd  DF             134
+ Nathan Collins    IRL     Brentford  DF             112
+Virgil van Dijk    NED     Liverpool  DF             111
+3 lowest scores : 
+       Player Nation          Squad   Pos  stats_misc_Won
+Andrés García    ESP    Aston Villa DF,MF               0
+       Antony    BRA Manchester Utd DF,MF               0
+Billy Gilmour    SCO       Brighton    MF               0
+
+------------ Statistics for stats_misc_Lost ------------ 
+3 highest scores :  
+              Player Nation           Squad Pos  stats_misc_Lost
+          Chris Wood    NZL Nott'ham Forest  FW              129
+Jean-Philippe Mateta    FRA  Crystal Palace  FW               99
+Jørgen Strand Larsen    NOR          Wolves  FW               96
+3 lowest scores : 
+         Player Nation       Squad   Pos  stats_misc_Lost
+ Aaron Ramsdale    ENG Southampton    GK                0
+Albert Grønbaek    DEN Southampton FW,MF                0
+  Alex McCarthy    ENG Southampton    GK                0
+
+------------ Statistics for stats_misc_Won% ------------ 
+3 highest scores :  
+         Player Nation       Squad   Pos  stats_misc_Won%
+ Aaron Ramsdale    ENG Southampton    GK            100.0
+Albert Grønbaek    DEN Southampton FW,MF            100.0
+  Alex McCarthy    ENG Southampton    GK            100.0
+3 lowest scores : 
+       Player Nation          Squad   Pos  stats_misc_Won%
+Andrés García    ESP    Aston Villa DF,MF              0.0
+       Antony    BRA Manchester Utd DF,MF              0.0
+  Emi Buendía    ARG    Aston Villa MF,FW              0.0
+
