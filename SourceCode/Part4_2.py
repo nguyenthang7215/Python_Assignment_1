@@ -42,7 +42,7 @@ corr_matrix = df.corr().abs()
 # Get correlation with Value
 value_corr = corr_matrix["Value"]
 
-# Select columns with correlation > 0.3 (optional)
+# Select columns with correlation > 0.3
 selected_features = value_corr[value_corr > 0.3].index.tolist()
 
 # Recalculate the correlation matrix for these columns
